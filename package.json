@@ -1,0 +1,22 @@
+{
+  "name": "lollynodeexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lolly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwvista/LollyNodeExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwvista/LollyNodeExpress/issues"
+  },
+  "homepage": "https://github.com/zwvista/LollyNodeExpress#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
